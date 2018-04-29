@@ -319,7 +319,7 @@ And that's it! Run the app and check it out yourself!
 
 ### What's in The Next Tutorial
 
-In the next tutorial, we are going to add CardView elements to add a sophisticated material design look in our **Note Taking App** and make it respond to click events !!!
+In the [**next tutorial**](https://androidpirate.github.io/NoteAppCardView/ "**next tutorial**"), we are going to add CardView elements to add a sophisticated material design look in our **Note Taking App** and make it respond to click events !!!
 
 
 
