@@ -58,7 +58,7 @@ Open up your **build.gradle file** and insert the following (or the latest) Recy
 dependencies {
   .
   .
-   implementation 'com.android.support:recyclerview-v7:26.1.0'
+   implementation 'com.android.support:recyclerview-v7:27.1.1'
 }
 ```
 
