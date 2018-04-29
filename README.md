@@ -11,7 +11,8 @@ Without  further due…
 ## NoteApp RecyclerView – Tutorial 1
 
 Start by downloading cloning/forking the app from the link below:
-(Needs a Link)
+
+[**NoteAppRecyclerView - Tutorial 1**](https://github.com/androidpirate/NoteAppRecyclerView "****NoteAppRecyclerView - Tutorial 1****")
 
 
 
